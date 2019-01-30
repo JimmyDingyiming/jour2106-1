@@ -6,6 +6,8 @@
 * Category: final-year international journalism  :camera:
 ## Ingredients
 - [x] 70% Water
-- [x] 10% Crazy ideas
+- [x] 10% Arty cells
 - [x] 9% Chunibyo
-- [x] 1% Lucky
+- [x] 1% Luck
+## How to use it in JOUR2106?
+Users could use it to 
