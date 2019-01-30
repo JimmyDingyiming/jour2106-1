@@ -5,7 +5,7 @@
 * Origin: Yunnan, China
 * Category: final-year international journalism  :camera:
 ## Product image
-![](http://ent.people.com.cn/NMediaFile/2015/1204/MAIN201512041049000214601355701.jpg)
+![] (http://ent.people.com.cn/NMediaFile/2015/1204/MAIN201512041049000214601355701.jpg)
 ## Ingredients
 - [x] 70% Water
 - [x] 10% Arty cells
