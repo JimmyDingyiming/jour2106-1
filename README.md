@@ -6,4 +6,6 @@
 * Category: final-year international journalism  :camera:
 ## Ingredients
 - [x] 70% Water
-- [x] 
+- [x] 10% Crazy ideas
+- [x] 9% Chunibyo
+- [x] 1% Lucky
