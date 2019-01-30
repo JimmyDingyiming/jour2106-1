@@ -1,1 +1,2 @@
-# How Windy Li is made?
+# "Windy Li" operation instruction 
+## Basic information
