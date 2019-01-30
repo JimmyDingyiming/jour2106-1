@@ -12,6 +12,6 @@
 ## How to use it in JOUR2106?
 Users could use it to ~~eat up your snacks~~ brainstorm story ideas, collect datas, write codes and design the pages.
 > ### Attention: the product will be extremly dangerous under following conditions
-    * Hungry  :rice:
-    * Sleepy  :sleeping:
-    * Just failed in the video game  :shit:
+>   - Hungry  :rice:
+>   - Sleepy  :sleeping:
+>   - Just failed in the video game  :shit:
