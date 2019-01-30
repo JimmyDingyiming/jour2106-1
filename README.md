@@ -2,4 +2,4 @@
 ## Basic information
 * Name: Li Yuquan (Windy)
 * Production year: 1997
-* Category: university final-year girl
+* Category: university final-year girl : :ok_woman:
