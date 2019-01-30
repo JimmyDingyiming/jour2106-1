@@ -5,3 +5,5 @@
 * Origin: Yunnan, China
 * Category: final-year international journalism  :camera:
 ## Ingredients
+- [x] 70% Water
+- [x] 
