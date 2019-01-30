@@ -1,4 +1,4 @@
-# "Windy Li" operation instruction 
+# Operation instruction of "Windy Li"
 ## Basic information
 * Name: Li Yuquan (Windy)
 * Production year: 1997
